@@ -12,8 +12,10 @@ D	=> DIP => Dependency Inversion Principle
 
 Este projeto tem como intenção demonstrar a violação de cada um dos princípios bem como utilizar os mesmos para a solução e demonstrar como o SOLID pode lhe proporcionar um melhor design de código facilitando a manutenção e o teste.
  		 
-## Observações		 
+## Github
  
+ Visite o nosso <a href="https://github.com/LesterCerioli/" target="_blank">perfil no Github
+ </a> 
 
 
 ## Feedback

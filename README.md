@@ -14,11 +14,10 @@ Este projeto tem como intenção demonstrar a violação de cada um dos princíp
  		 
 ## Observações		 
  
-Confira o artigo e o vídeo explicativo neste artigo:
-<a href="http://eduardopires.net.br/2015/01/solid-teoria-e-pratica/" target="_blank">SOLID – Teoria e Prática</a>
+
 
 ## Feedback
 
-Entre em <a href="http://www.eduardopires.net.br/" target="_blank">contato</a> para enviar seu feedback
+Entre em <a href="https://lucastecnologiaservice.com.br/contato/" target="_blank">contato</a> para enviar seu feedback
 
-Eduardo Pires - Microsoft MVP ASP.NET
+Lester Cerioli - Devops Specialist ASP.NET
